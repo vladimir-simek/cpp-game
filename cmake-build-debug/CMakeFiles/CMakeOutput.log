@@ -1,0 +1,170 @@
+The system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Program Files/Developing/Microsoft/VisualStudio/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Optimalizující kompilátor C/C++ společnosti Microsoft (R) verze 19.28.29336 pro procesory x86
+Copyright (C) Microsoft Corporation. Všechna práva vyhrazena.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29336.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/Documents/Developing projects/CLion/CPP/LargeProjects/TestGame/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Program Files/Developing/Microsoft/VisualStudio/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Optimalizující kompilátor C/C++ společnosti Microsoft (R) verze 19.28.29336 pro procesory x86
+Copyright (C) Microsoft Corporation. Všechna práva vyhrazena.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29336.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/Documents/Developing projects/CLion/CPP/LargeProjects/TestGame/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Documents/Developing projects/CLion/CPP/LargeProjects/TestGame/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_cfe10\fast && 	"D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_cfe10.dir\build.make /nologo -L                  CMakeFiles\cmTC_cfe10.dir\build
+Building C object CMakeFiles/cmTC_cfe10.dir/testCCompiler.c.obj
+	"D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\cl.exe" @C:\Users\miner\AppData\Local\Temp\nm4111.tmp
+testCCompiler.c
+Linking C executable cmTC_cfe10.exe
+	"D:\Program Files\Developing\JetBrains\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_cfe10.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_cfe10.dir\objects1.rsp @C:\Users\miner\AppData\Local\Temp\nm4680.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/Documents/Developing projects/CLion/CPP/LargeProjects/TestGame/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_c4bb2\fast && 	"D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_c4bb2.dir\build.make /nologo -L                  CMakeFiles\cmTC_c4bb2.dir\build
+Building C object CMakeFiles/cmTC_c4bb2.dir/CMakeCCompilerABI.c.obj
+	"D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\cl.exe" @C:\Users\miner\AppData\Local\Temp\nm5D24.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_c4bb2.exe
+	"D:\Program Files\Developing\JetBrains\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_c4bb2.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_c4bb2.dir\objects1.rsp @C:\Users\miner\AppData\Local\Temp\nm6246.tmp
+
+
+
+The system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Program Files/Developing/Microsoft/VisualStudio/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Optimalizující kompilátor C/C++ společnosti Microsoft (R) verze 19.28.29336 pro procesory x86
+Copyright (C) Microsoft Corporation. Všechna práva vyhrazena.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29336.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/Documents/Developing projects/CLion/CPP/LargeProjects/TestGame/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Program Files/Developing/Microsoft/VisualStudio/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Optimalizující kompilátor C/C++ společnosti Microsoft (R) verze 19.28.29336 pro procesory x86
+Copyright (C) Microsoft Corporation. Všechna práva vyhrazena.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29336.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/Documents/Developing projects/CLion/CPP/LargeProjects/TestGame/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Documents/Developing projects/CLion/CPP/LargeProjects/TestGame/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_8da20\fast && 	"D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_8da20.dir\build.make /nologo -L                  CMakeFiles\cmTC_8da20.dir\build
+Building C object CMakeFiles/cmTC_8da20.dir/testCCompiler.c.obj
+	"D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\cl.exe" @C:\Users\miner\AppData\Local\Temp\nm502A.tmp
+testCCompiler.c
+Linking C executable cmTC_8da20.exe
+	"D:\Program Files\Developing\JetBrains\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_8da20.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_8da20.dir\objects1.rsp @C:\Users\miner\AppData\Local\Temp\nm54BF.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/Documents/Developing projects/CLion/CPP/LargeProjects/TestGame/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_ba6b5\fast && 	"D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_ba6b5.dir\build.make /nologo -L                  CMakeFiles\cmTC_ba6b5.dir\build
+Building C object CMakeFiles/cmTC_ba6b5.dir/CMakeCCompilerABI.c.obj
+	"D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\cl.exe" @C:\Users\miner\AppData\Local\Temp\nm6865.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_ba6b5.exe
+	"D:\Program Files\Developing\JetBrains\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_ba6b5.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_ba6b5.dir\objects1.rsp @C:\Users\miner\AppData\Local\Temp\nm6CEB.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/Documents/Developing projects/CLion/CPP/LargeProjects/TestGame/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_4b85f\fast && 	"D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_4b85f.dir\build.make /nologo -L                  CMakeFiles\cmTC_4b85f.dir\build
+Building CXX object CMakeFiles/cmTC_4b85f.dir/testCXXCompiler.cxx.obj
+	"D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\cl.exe" @C:\Users\miner\AppData\Local\Temp\nm8033.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_4b85f.exe
+	"D:\Program Files\Developing\JetBrains\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_4b85f.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_4b85f.dir\objects1.rsp @C:\Users\miner\AppData\Local\Temp\nm84E7.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/Documents/Developing projects/CLion/CPP/LargeProjects/TestGame/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_422a3\fast && 	"D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_422a3.dir\build.make /nologo -L                  CMakeFiles\cmTC_422a3.dir\build
+Building CXX object CMakeFiles/cmTC_422a3.dir/CMakeCXXCompilerABI.cpp.obj
+	"D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\cl.exe" @C:\Users\miner\AppData\Local\Temp\nm9F15.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_422a3.exe
+	"D:\Program Files\Developing\JetBrains\CLion\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_422a3.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- "D:\Program Files\Developing\Microsoft\VisualStudio\VC\Tools\MSVC\14.28.29333\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_422a3.dir\objects1.rsp @C:\Users\miner\AppData\Local\Temp\nmA37B.tmp
+
+
+
